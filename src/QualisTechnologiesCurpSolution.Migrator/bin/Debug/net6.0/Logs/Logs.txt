@@ -1,0 +1,13 @@
+﻿DEBUG 2023-05-22 22:55:33,037 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2023-05-22 22:55:33,302 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2023-05-22 22:55:33,769 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: QualisTechnologiesCurpSolution.Migrator.QualisTechnologiesCurpSolutionMigratorModule, QualisTechnologiesCurpSolution.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: QualisTechnologiesCurpSolution.EntityFrameworkCore.QualisTechnologiesCurpSolutionEntityFrameworkModule, QualisTechnologiesCurpSolution.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: QualisTechnologiesCurpSolution.QualisTechnologiesCurpSolutionCoreModule, QualisTechnologiesCurpSolution.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,776 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,777 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,778 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,779 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,780 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,780 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=7.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2023-05-22 22:55:33,788 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2023-05-22 22:55:35,003 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: QualisTechnologiesCurpSolution.EntityFrameworkCore.QualisTechnologiesCurpSolutionDbContext, QualisTechnologiesCurpSolution.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null

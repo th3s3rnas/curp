@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "3HKfN1i0k6TtOqtQKl701vaDVTzPodOdozfOrzKhXiA=",
+  "Source": "QualisTechnologiesCurpSolution.Web.Host",
+  "BasePath": "_content/QualisTechnologiesCurpSolution.Web.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QualisTechnologiesCurpSolution.Web.Host/wwwroot",
+      "Source": "QualisTechnologiesCurpSolution.Web.Host",
+      "ContentRoot": "/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Host/wwwroot/",
+      "BasePath": "_content/QualisTechnologiesCurpSolution.Web.Host",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Host/wwwroot/swagger/ui/abp.js",
+      "SourceId": "QualisTechnologiesCurpSolution.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Host/wwwroot/",
+      "BasePath": "_content/QualisTechnologiesCurpSolution.Web.Host",
+      "RelativePath": "swagger/ui/abp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.js"
+    },
+    {
+      "Identity": "/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Host/wwwroot/swagger/ui/abp.swagger.js",
+      "SourceId": "QualisTechnologiesCurpSolution.Web.Host",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Host/wwwroot/",
+      "BasePath": "_content/QualisTechnologiesCurpSolution.Web.Host",
+      "RelativePath": "swagger/ui/abp.swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/swagger/ui/abp.swagger.js"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.deps.json
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.AssemblyInfo.cs
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.deps.json
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.AssemblyInfo.cs
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Core/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.Core.dll

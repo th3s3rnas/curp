@@ -1,0 +1,622 @@
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.deps.json
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.xml
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/netstandard.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Console.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Web.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.xml
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.AssemblyInfo.cs
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.CopyComplete
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.xml
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.deps.json
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.xml
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/netstandard.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Console.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Data.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Web.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Application.xml
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.AssemblyInfo.cs
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.csproj.CopyComplete
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.Web.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.xml
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/QualisTechnologiesCurpSolution.Web.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.Web.Core/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.Web.Core.dll

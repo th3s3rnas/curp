@@ -1,0 +1,40 @@
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.deps.json
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.runtimeconfig.json
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.SuggestedBindingRedirects.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.AssemblyInfo.cs
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.CopyComplete
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.genruntimeconfig.cache
+/Users/thesernas/Downloads/7.3.0/aspnet-core/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.deps.json
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.runtimeconfig.json
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/bin/Debug/net6.0/QualisTechnologiesCurpSolution.Core.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.AssemblyReference.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.SuggestedBindingRedirects.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll.config
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.AssemblyInfoInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.AssemblyInfo.cs
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.csproj.CopyComplete
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/refint/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.pdb
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/QualisTechnologiesCurpSolution.EntityFrameworkCore.genruntimeconfig.cache
+/Users/thesernas/Downloads/Copia de 7.3.0 2/src/QualisTechnologiesCurpSolution.EntityFrameworkCore/obj/Debug/net6.0/ref/QualisTechnologiesCurpSolution.EntityFrameworkCore.dll
